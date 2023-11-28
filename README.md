@@ -21,7 +21,7 @@ Run the following command in your terminal:
 ember install ember-cli-deploy-smart-compress
 ```
 
-Note that this addon requires at least node.js 14!
+Note that this addon requires at least node.js 16!
 
 ## ember-cli-deploy Hooks Implemented
 

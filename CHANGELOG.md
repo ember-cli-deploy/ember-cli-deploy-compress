@@ -1,5 +1,17 @@
 
 
+
+## v2.0.0 (2023-11-28)
+
+#### :boom: Breaking Change
+* [#5](https://github.com/ember-cli-deploy/ember-cli-deploy-smart-compress/pull/5) Update addon name ([@lukemelia](https://github.com/lukemelia))
+
+#### :bug: Bug Fix
+* [#5](https://github.com/ember-cli-deploy/ember-cli-deploy-smart-compress/pull/5) Update addon name ([@lukemelia](https://github.com/lukemelia))
+
+#### Committers: 1
+- Luke Melia ([@lukemelia](https://github.com/lukemelia))
+
 ## v1.0.2 (2023-11-28)
 
 ## v1.0.1 (2023-11-28)

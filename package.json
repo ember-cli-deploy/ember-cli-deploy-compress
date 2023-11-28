@@ -1,12 +1,12 @@
 {
-  "name": "@ember-cli-deploy/ember-cli-deploy-compress",
+  "name": "@ember-cli-deploy/ember-cli-deploy-smart-compress",
   "version": "1.0.0",
   "description": "Ember CLI Deploy plugin to compress files in gzip or brotli automatically depending on supported browsers (forked from Dockyard)",
   "keywords": [
     "ember-addon",
     "ember-cli-deploy-plugin"
   ],
-  "repository": "https://github.com/ember-cli-deploy/ember-cli-deploy-compress",
+  "repository": "https://github.com/ember-cli-deploy/ember-cli-deploy-smart-compress",
   "license": "MIT",
   "author": "Miguel Camba",
   "directories": {

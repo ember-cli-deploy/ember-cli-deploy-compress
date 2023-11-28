@@ -1,4 +1,4 @@
-# ember-cli-deploy-compress
+# ember-cli-deploy-smart-compress
 
 > An ember-cli-deploy plugin to compress files in-place choosing between gzip or brotli compression automatically based on your supported browsers.
 
@@ -18,7 +18,7 @@ For more information on what plugins are and how they work, please refer to the 
 Run the following command in your terminal:
 
 ```bash
-ember install ember-cli-deploy-compress
+ember install ember-cli-deploy-smart-compress
 ```
 
 Note that this addon requires at least node.js 14!
@@ -112,3 +112,7 @@ Since this is a node-only ember-cli addon, this package does not include many fi
 [1]: http://ember-cli-deploy.github.io/ember-cli-deploy/plugins/ "Plugin Documentation"
 [2]: https://github.com/zapnito/ember-cli-deploy-build "ember-cli-deploy-build"
 [3]: https://github.com/zapnito/ember-cli-deploy-s3 "ember-cli-deploy-s3"
+
+## Credits
+
+This project was forked from ember-cli-deploy-compress, maintained for several years by Dockyard. Thanks to the authors and maintainers!

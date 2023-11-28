@@ -42,8 +42,7 @@
     "rimraf": "^2.3.4"
   },
   "engines": {
-    "npm": "9.7.1",
-    "node": "14.* || 16.* || 18.* || >= 20.*"
+    "node": "16.* || 18.* || >= 20.*"
   },
   "publishConfig": {
     "access": "public",

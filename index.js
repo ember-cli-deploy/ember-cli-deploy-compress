@@ -130,7 +130,7 @@ class DeployPlugin extends DeployPluginBase {
       }
 
       let { default: pkg } = await import(pkgName);
-  
+
       return pkg.createGzip({ format: 'gzip' })
     } else {
       return require('zlib').createGzip({ format: 'gzip' });
@@ -187,7 +187,7 @@ class DeployPlugin extends DeployPluginBase {
 }
 
 module.exports = {
-  name: 'ember-cli-deploy-compress',
+  name: 'ember-cli-deploy-smart-compress',
 
   createDeployPlugin(options) {
     return new DeployPlugin(options);
